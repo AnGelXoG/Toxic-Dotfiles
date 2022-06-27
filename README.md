@@ -2,7 +2,7 @@
 # Toxic-Dotfiles
 
 ### *different colors in different worlds*
-##### *Compilation for xfce4 desktop*
+##### *Archives for xfce4 desktop*
  - *Wallpapers*
 - *Themes*
  - *Icons*
@@ -10,11 +10,13 @@
  - *Color Terminal*
 - *Termux Color*
 
-simple dotfiles where I will place for different themes with their respective set.
+different themes with their respective set.
 
 anyone could contribute to the dotfiles.
 
-It will be active also any doubt or error is to notify.
+It will be active.
+
+doubt or error is to notify.
 
 I hope you like it :D
 
