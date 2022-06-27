@@ -20,4 +20,4 @@ I hope you like it :D
 
 ##### Available on both linux and android
 
-![Tux?]()
+![Tux?](https://github.com/AnGelXoG/Toxic-Dotfiles/blob/main/tux.gif)
