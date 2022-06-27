@@ -1,1 +1,0 @@
-<img src="Caratula.jpg"
