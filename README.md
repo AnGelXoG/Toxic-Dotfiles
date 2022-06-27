@@ -10,7 +10,7 @@
  - *Color Terminal*
 - *Termux Color*
 
-simple dotfiles where I will wait for different themes with their respective set.
+simple dotfiles where I will place for different themes with their respective set.
 
 anyone could contribute to the dotfiles.
 
